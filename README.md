@@ -1,5 +1,4 @@
 #  Starve Free Readers Writers Problem
-Submitted by: Pragya Dalal 19114063 
 
 ## Contents
 
